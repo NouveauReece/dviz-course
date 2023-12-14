@@ -1,3 +1,5 @@
+> Note: This repo is a fork on Indiana University class content by [Yong-Yeol (YY) Ahn](http://yongyeol.com)  
+
 # DSCI 590 - Data Visualization
 
 ![example workflow](https://github.com/yy/dviz-course/actions/workflows/main.yml/badge.svg)
